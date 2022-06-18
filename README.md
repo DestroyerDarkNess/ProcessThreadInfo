@@ -5,6 +5,6 @@ Get Thread StartAdress with Full Symbols Name And Offset.
  - Start Address (Symbol)
  - And More Options...
 
-![alt text](https://raw.githubusercontent.com/itsmeny/Process_ThreadInfo/master/gif/ui.gif)
+![alt text](https://github.com/DestroyerDarkNess/ProcessThreadInfo/blob/main/ssa.png?raw=true)
 
 > [Xylon.PH](https://github.com/DestroyerDarkNess/Xylon.PH) modified Process Hacker API by me.
